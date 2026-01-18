@@ -1,0 +1,5 @@
+{
+  "name": "PDF to Markdown Pro (macOS Edition)",
+  "description": "PDFファイルを読み込み、Gemini AIを使用して高度な解析を行い、構造化されたマークダウンファイルに変換するmacOSスタイルのデスクトップ型Webアプリケーションです。",
+  "requestFramePermissions": []
+}
